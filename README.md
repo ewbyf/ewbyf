@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=24&duration=3250&color=31ADF7&center=true&multiline=true&height=75&lines=Hey%2C+I'm+Eric!;Sophomore+CS+major+at+MST!" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=24&duration=3250&color=24A2F7&center=true&vCenter=true&multiline=true&width=500&height=75&lines=Hey%2C+I'm+Eric!;A+student+and+an+aspiring+developer!)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ewbyf&label=Profile%20views&color=4dbbff&style=flat" alt="ewbyf" /> </p>
