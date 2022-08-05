@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ewbyf&label=Profile%20views&color=4dbbff&style=flat" alt="ewbyf" /> </p>
 
-- 🔭 I’m currently working on **a project**
+- 🔭 I’m currently working on **a game**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I'm willing to collaborate on any projects ideas **you have**
 
