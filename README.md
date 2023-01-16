@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **a game**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **NestJS**
 
 - 👯 I'm willing to collaborate on any projects ideas **you have**
 
 - 👨‍💻 All of my projects are available at [ewbyf.github.io](ewbyf.github.io)
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **web & app development**
 
 - 📫 Reach me at **ewbyf@umsystem.edu**
 
