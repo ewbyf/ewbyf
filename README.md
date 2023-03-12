@@ -3,22 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ewbyf&label=Profile%20views&color=4dbbff&style=flat" alt="ewbyf" /> </p>
 
-- 🔭 I’m currently working on **school**
+- 🔭 I’m currently very interested in **full stack development**
 
 - 🌱 I’m currently learning **NestJS**
 
-- 👯 I'm willing to collaborate on any projects ideas **you have**
-
 - 👨‍💻 All of my projects are available at [ewbyf.github.io](ewbyf.github.io)
-
-- 💬 Ask me about **web & app development**
 
 - 📫 Reach me at **ewbyf@umsystem.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ewbyf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ewbyf" height="30" width="40" /></a>
-<a href="https://instagram.com/ewbyf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ewbyf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
