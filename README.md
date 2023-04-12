@@ -1,3 +1,5 @@
+![Banner](https://imgur.com/H1GlaXx.jpg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=24&duration=3250&color=24A2F7&center=true&vCenter=true&multiline=true&width=500&height=75&lines=Hey%2C+I'm+Eric!;A+student+and+an+aspiring+developer!)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
