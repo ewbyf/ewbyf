@@ -1,13 +1,11 @@
-![Banner](https://imgur.com/H1GlaXx.jpg)
+![Banner](https://imgur.com/RLfK4zA.jpg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=24&duration=3250&color=24A2F7&center=true&vCenter=true&multiline=true&width=500&height=75&lines=Hey%2C+I'm+Eric!;A+student+and+an+aspiring+developer!)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ewbyf&label=Profile%20views&color=4dbbff&style=flat" alt="ewbyf" /> </p>
 
-- 🔭 I’m currently very interested in **full stack development**
-
-- 🌱 I’m currently learning **NestJS**
+- 🔭 I’m very interested in **full stack development**
 
 - 👨‍💻 All of my projects are available at [ewbyf.github.io](ewbyf.github.io)
 
