@@ -7,7 +7,7 @@
 
 - 🔭 I’m very interested in **full stack development**
 
-- 👨‍💻 All of my projects are available at [ewbyf.github.io](ewbyf.github.io)
+- 👨‍💻 All of my projects are available at [ewbyf.github.io](https://ewbyf.github.io)
 
 - 📫 Reach me at **ewbyf@umsystem.edu**
 
